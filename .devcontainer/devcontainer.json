@@ -11,7 +11,24 @@
       "settings": {
         "liveServer.settings.root": "/",
         "editor.formatOnSave": true,
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        "github.copilot.editor.enableAutoCompletions": false,
+        "github.copilot.enable": {
+          "*": false
+        },
+        "editor.quickSuggestions": {
+          "other": false,
+          "comments": false,
+          "strings": false
+        },
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.parameterHints.enabled": false,
+        "editor.minimap.enabled": false,
+        "editor.renderWhitespace": "none",
+        "breadcrumbs.enabled": false,
+        "editor.wordWrap": "on",
+        "editor.bracketPairColorization.enabled": true,
+        "files.autoSave": "afterDelay"
       }
     }
   },
